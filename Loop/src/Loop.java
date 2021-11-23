@@ -6,7 +6,7 @@
 // awal ditambahkan 1, lalu
 // tampilkan "UBP Karawang"
 // ketika awal sudah tepat dari 5
-// keluar dari loop lalu tampilkan "Break point"
+// keluar dari loop lalu tampilkan "Keluar dari Loop"
 // Selesai.
 
 
